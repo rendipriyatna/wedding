@@ -1088,43 +1088,10 @@ select.form-control:not([size]):not([multiple]){
 	background-image: url(/images/family-01.jpg);
 }
 
+.headerpop {
+/* background-color: chartreuse; */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.headerpop.h2{
+	color: white!important
+}
